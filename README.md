@@ -1,4 +1,4 @@
-![Full Stack Web Developer](https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/400055114_1728356314278997_1937568016033459218_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEZpNWjdKCCCpTAOR-3d0hNN_rbbC9o9VQ3-ttsL2j1VNCW96WXD2YGw3n4y8lckexJW9faGk5E8dvTMSgVHjKw&_nc_ohc=F6SbZ47OcHEQ7kNvgHCOKcy&_nc_ht=scontent.fdac157-1.fna&_nc_gid=Aw5G-ytNaXPi_qXaBU8XsRh&oh=00_AYDRP8ogAEkleTJGn1fhr4IE9QQItkamYh8bSEoCh8ZxaA&oe=66F8417A)
+![Full Stack Web Developer]
 ### Hi there 👋, This is MD.Sahiqur Rahman here
 #### Full Stack Web Developer
 
