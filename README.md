@@ -1,5 +1,5 @@
 ![Full Stack Web Developer]
-### Hi there 👋, This is MD.Sahiqur Rahman here
+### This is MD.Sahiqur Rahman here
 #### Full Stack Web Developer
 
 I have been working in Full Stack Web development Sector since my University.
