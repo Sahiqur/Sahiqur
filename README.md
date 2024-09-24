@@ -25,7 +25,7 @@ Skills: HTML/CSS/JAVASCRIPT/PYTHON/REACT/DJANGO/DRF/FLASK/RESTAPI
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahiqur&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Sahiqur/contributions?format=svg&private=true)  
+
 
 ![GitHub metrics](https://metrics.lecoq.io/Sahiqur)  
 
