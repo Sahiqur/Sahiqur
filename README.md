@@ -1,5 +1,3 @@
-https://media.licdn.com/dms/image/v2/D5616AQFug1QLRA-y0Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728227810694?e=1733961600&v=beta&t=WnCmAgUv6y1EnE31ZvjQ_FWnsDTGb1FlCpcucpfgWxU
-
 ![Full Stack Web Developer]
 ### This is MD.Sahiqur Rahman here
 #### Full Stack Web Developer
