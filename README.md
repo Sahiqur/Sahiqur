@@ -13,7 +13,7 @@ GitHub Username: Sahiqur
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sahiqur&style=flat-square&color=gold"/>
+
 <img src="https://img.shields.io/github/followers/Sahiqur?style=flat-square&logo=github"/>
 <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Robotics%20%7C%20Web%20Engineering-black?style=flat-square"/>
 </p>
