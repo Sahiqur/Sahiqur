@@ -9,7 +9,7 @@ GitHub Username: Sahiqur
 
 <p align="center">
 📍 Kyoto, Japan | 📧 sahiqurr@gmail.com  
-💻 <a href="https://github.com/Sahiqur">GitHub</a> | 🔗 <a href="https://www.linkedin.com/in/md-sahiqur-rahman">LinkedIn</a>
+💻 <a href="https://github.com/Sahiqur">GitHub</a> | 🔗 <a href="https://www.linkedin.com/in/md-sahiqur-rahman">LinkedIn</a> | 🌐 <a href="https://rahmanmdsahiqurportfolio.netlify.app/">Portfolio</a>
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@ Secondary School Certificate — Science
 
 ## 💼 EXPERIENCE
 
-**Graduate Teaching Assistant — KCGI (Japan)** — 2025  
+**Graduate Teaching Assistant — The Kyoto College of Graduate Studies for Informatics, University of Informatics (Japan)** — 2025  
 **Software Engineer — Quanta Robotics** — 2024  
 **Lecturer of ICT** — Cumilla Pathshala College — 2023  
 **Guest Lecturer** — Cumilla Govt College — 2024  
