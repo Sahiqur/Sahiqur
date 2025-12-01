@@ -125,7 +125,7 @@ Bangla — Native
 
 ## 🤝 CONTACT & LINKS
 📧 Email: sahiqurr@gmail.com  
-🔗 Portfolio: https://YOUR_USERNAME.github.io  
+🔗 Portfolio: https://rahmanmdsahiqurportfolio.netlify.app/ 
 💻 GitHub: https://github.com/YOUR_USERNAME  
 
 ---
