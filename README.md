@@ -1,161 +1,177 @@
 <!--
-  Professional GitHub Profile for: Rahman Md Sahiqur
-  Username:  Sahiqur
+Professional GitHub Profile
+Name: Rahman Md Sahiqur
+GitHub Username: Sahiqur
 -->
 
 <h1 align="center">Rahman Md Sahiqur</h1>
-<h3 align="center">Full-Stack Web Developer | AI & Robotics Enthusiast</h3>
+<h3 align="center">Computer Engineer | AI Researcher | Robotics Developer | Full-Stack Web Engineer</h3>
 
 <p align="center">
-  <a href="mailto:sahiqurr@gmail.com">📧 Email</a> •
-  <a href="https://github.com/Sahiqur">💻 GitHub</a> •
-  <a href="https://www.linkedin.com/in/md-sahiqur-rahman">🔗 LinkedIn</a>
+📍 Kyoto, Japan | 📧 sahiqurr@gmail.com  
+💻 <a href="https://github.com/Sahiqur">GitHub</a> | 🔗 <a href="https://www.linkedin.com/in/md-sahiqur-rahman">LinkedIn</a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sahiqur&style=flat-square&color=gold" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Sahiqur?style=flat-square&logo=github" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-black?style=flat-square" alt="Role badge" />
+<img src="https://komarev.com/ghpvc/?username=Sahiqur&style=flat-square&color=gold"/>
+<img src="https://img.shields.io/github/followers/Sahiqur?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Robotics%20%7C%20Web%20Engineering-black?style=flat-square"/>
 </p>
 
 ---
 
-## 👤 Profile Summary
+## 👤 PROFESSIONAL PROFILE
 
-I am a **Full-Stack Web Developer** with experience in both frontend and backend development, primarily using
-**JavaScript** and **Python-based frameworks**. I enjoy designing and building scalable web systems, RESTful APIs,
-and production-ready applications.
+Computer Engineer specializing in **AI, Robotics, and Web Systems** with strong experience in software development, research, and teaching.  
+Currently pursuing MSc in Information Technology (Web System Development) in Japan.
 
-In addition to web development, I have a strong interest in **AI, automation, and robotics**, and I aim to apply
-these technologies to solve practical, real-world problems.
-
-- Currently working at **Quanta Robotics**
-- Actively improving my skills through **structured learning (Ostad, self-study, and projects)**
-- Open to collaboration on **web, backend, and API-based projects**
-- Comfortable working in team-based and remote development environments
+I work across:
+- Artificial Intelligence & Machine Learning  
+- Robotics and Automation  
+- Web System Development  
+- Academic Research & Teaching  
 
 ---
 
-## 🛠 Technical Skills
+## 🎓 EDUCATION
 
-### 💻 Languages
-- HTML, CSS, JavaScript
-- Python
-- SQL (basic database operations and queries)
+**Master of Science in Information Technology**  
+The Kyoto College of Graduate Studies for Informatics, Japan  
+Specialization: Web System Development
+
+**Bachelor of Science in Computer Science & Engineering**  
+CCN University of Science & Technology
+
+Higher Secondary Certificate — Science  
+Secondary School Certificate — Science
+
+---
+
+## 🔬 RESEARCH & PUBLICATIONS
+
+- A Deep Learning Framework for Multi-Class Classification of Pox Diseases  
+  (Monkeypox, Smallpox, Chickenpox)
+
+- Machine Learning & Deep Learning for Breast Cancer Prediction
+
+- Differentiated Thyroid Cancer Recurrence Prediction
+
+- Bacteria Classification using Image Processing and Deep Learning
+
+- Abnormal Human Behavior Classification using Machine Learning  
+  (Master Project – Multimodal AI)
+
+📑 Conferences:
+- International Conference on Machine Learning and Data Engineering
+
+---
+
+## 💼 EXPERIENCE
+
+**Graduate Teaching Assistant — KCGI (Japan)** — 2025  
+**Software Engineer — Quanta Robotics** — 2024  
+**Lecturer of ICT** — Cumilla Pathshala College — 2023  
+**Guest Lecturer** — Cumilla Govt College — 2024  
+**Lecturer of ICT** — Tamirul Ummah Madrasha — 2024  
+**Robotics & Programming Instructor** — School of Robotics, Comilla  
+**Instructor** — FavLab, DC Office, Cumilla  
+**Undergraduate Teaching Assistant** — CCN University
+
+**Competitions:**  
+- Bangladesh National Robot Olympiad — Dhaka University  
+- ICPC Contestant — DIU
+
+---
+
+## ⚙ TECHNICAL SKILLS
+
+### 👨‍💻 Programming
+Python • Java • C/C++ • JavaScript • SQL • Kotlin • R
 
 ### 🌐 Web Development
-- **Frontend:** HTML5, CSS3, JavaScript, React (basic to intermediate)
-- **Backend:** Django, Django REST Framework (DRF), Flask
-- **APIs:** REST API design and integration
+Django • Django REST Framework • Flask • React.js • Node.js • REST API  
+HTML • CSS • Bootstrap
 
-### ⚙ Tools & Platforms
-- Version Control: Git, GitHub  
-- Development: VS Code  
-- Testing & Debugging: Browser DevTools, Postman  
-- Environment: Windows / Linux
+### 🤖 AI / DATA
+Machine Learning • Deep Learning • Computer Vision • TensorFlow • PyTorch
 
----
+### 🔧 Robotics
+Arduino • Sensors • Automation • Embedded Programming
 
-## 💼 Professional Involvement
-
-- 🔭 **Current Organization:** Quanta Robotics  
-  Working in the domain of software and web development, contributing to real-world applications and systems.
-
-- 🌱 **Continuous Learning:**  
-  Enrolled in structured learning programs (e.g., **Ostad**) to enhance full-stack and advanced programming skills.
-
-- 👥 **Collaboration:**  
-  Open to collaborating on GitHub on **web-based products**, **REST APIs**, and **backend logic-heavy applications**.
-
-- 💬 **Areas you can ask me about:**
-  - Web development (frontend & backend)
-  - Django / DRF-based backend systems
-  - Project structuring and basic deployment workflow
+### 🛠 Tools & Platforms
+Git • Linux • Docker • Google Analytics • SEO Tools • CMS Platforms
 
 ---
 
-## 🚀 Featured Skill Snapshot
+## 🧪 PROJECTS
 
-**Core Stack**
-
-- **Frontend:**  
-  `HTML` · `CSS` · `JavaScript`
-
-- **Backend & Frameworks:**  
-  `Python` · `Django` · `Django REST Framework (DRF)` · `Flask`
-
-- **Architecture & Concepts:**  
-  `REST API` · `Full-Stack Web Applications`
+| Project | Technology |
+|--------|------------|
+| AI Disease Diagnosis System | Deep Learning |
+| EduCraft Learning Platform | React + Node.js |
+| E-Commerce Platform | Django |
+| Hotel Management System | REST API |
+| Weather App | JavaScript |
+| Restaurant Web System | Django |
+| Mobile Controller Car | Arduino |
+| Obstacle Avoiding Robot | Arduino |
+| Line Following Robot | Arduino |
+| Farming Drone | Image Processing |
+| Smart Dustbin (IoT) | Arduino |
 
 ---
 
-## 📊 GitHub Overview
+## 🧠 CORE STRENGTHS
+
+✅ Research & Data Analysis  
+✅ System Design & Optimization  
+✅ Teaching & Mentoring  
+✅ Problem Solving  
+✅ Communication & Team Leadership  
+✅ Continuous Learning
+
+---
+
+## 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Sahiqur&show_icons=true&count_private=true&theme=github_dark"
-    alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sahiqur&show_icons=true&count_private=true&theme=github_dark"/>
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahiqur&layout=compact&theme=dark"
-    alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahiqur&layout=compact&theme=dark"/>
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=Sahiqur&theme=highcontrast"
-    alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=Sahiqur&theme=highcontrast"/>
 </p>
 
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=Sahiqur&theme=onestar">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=Sahiqur&theme=onestar&row=1&margin-w=10&margin-h=10"
-      alt="GitHub trophies" />
-  </a>
+<img src="https://github-profile-trophy.vercel.app/?username=Sahiqur&theme=onestar&row=1"/>
 </p>
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 CONTRIBUTION ANIMATION
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Sahiqur/Sahiqur/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub contribution snake animation" />
+<img src="https://raw.githubusercontent.com/Sahiqur/Sahiqur/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/Sahiqur" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="32" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/md-sahiqur-rahman" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="32" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" height="32" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/floating_fish" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" height="32" />
-  </a>
-</p>
+## 🌍 LANGUAGE
+English — Fluent  
+Bangla — Native
 
 ---
 
-## 📫 Contact
+## 📫 CONTACT
 
-If you would like to discuss a project, collaboration, or opportunity:
+📧 Email: sahiqurr@gmail.com  
+🔗 GitHub: https://github.com/Sahiqur  
+🔗 LinkedIn: https://www.linkedin.com/in/md-sahiqur-rahman
 
-- **Email:** `sahiqurr@gmail.com`  
-- **GitHub:** [github.com/Sahiqur](https://github.com/Sahiqur)
+---
 
-<!-- End of Professional GitHub Profile -->
+⭐ _Committed to building intelligent systems through AI, robotics, and software engineering._
